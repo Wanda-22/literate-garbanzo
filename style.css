@@ -1,0 +1,42 @@
+body {
+ background-size: cover;
+}
+h3 {
+    color: brown;
+    background-color: chartreuse;
+    font-size: 30px;
+    margin: 0;
+    font-family: 'Lucida Sans Unicode';
+}
+#note {
+    font-size: 20px;
+    color: black;
+}
+#speed{
+    margin: 15px;
+    font-size: 25px;
+}
+#one{
+    float: left;
+}
+#s1{
+    border-radius: 100px;
+    width: 350px;
+}
+#vol{
+    margin: 15px;
+    font-size: 25px;
+}
+#two{
+    float: right;
+}
+#v1{
+    border-radius: 100px;
+    width: 350px;
+}
+canvas{
+    border: dashed salmon;
+    border-radius: 60px;
+
+    box-shadow: 15px 15px 15px aquamarine;
+}
